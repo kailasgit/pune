@@ -1,2 +1,2 @@
 echo "Hello world %date% :%date%"
-i am in feature branch
+echo "i am in feature branch"
